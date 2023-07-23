@@ -1,5 +1,5 @@
 # <div align="center"> AUTOM TECHNOLOGIES👨‍💻 🚀</div>
-## A Resourceful Team of Gamers, 🎮 Programmers, 💻 and Engineers 😅
+## A Resourceful Team of Gamers 🎮 Programmers 💻 & Engineers 😅
 
 <h3 align="center"> Passionate Developers from India</h3>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **automprojects@gmail.com**
 
-- ⚡ Fun fact **Crazy Techies**
+- ⚡ Fun fact **Tech Freaks**
 
 
 
