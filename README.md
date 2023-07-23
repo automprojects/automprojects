@@ -1,4 +1,4 @@
-# <div align="center"> Autom Technologies👨‍💻 🚀</div>
+# <div align="center"> Greetings from Autom Technologies👨‍💻 🚀</div>
 ## A Resourceful Team of Gamers 🎮 Programmers 💻 and Engineers 😅
 
 <h3 align="center"> Passionate Developers from India</h3>
