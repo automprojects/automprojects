@@ -1,5 +1,5 @@
-# <div align="center"> AUTOM TECHNOLOGIES👨‍💻 🚀</div>
-## A Resourceful Team of Gamers 🎮 Programmers 💻 & Engineers 😅
+# <div align="center"> Autom Technologies👨‍💻 🚀</div>
+## A Resourceful Team of Gamers 🎮 Programmers 💻 and Engineers 😅
 
 <h3 align="center"> Passionate Developers from India</h3>
 
