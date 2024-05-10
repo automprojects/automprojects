@@ -1,4 +1,4 @@
-# <div align="center"> Hello, Autom AI !👨‍💻 🚀</div>
+# <div align="center"> Hello, Geeks !</div>
 ## A Resourceful Team of Gamers 🎮 Programmers 💻 and Engineers 😅
 
 
