@@ -1,5 +1,4 @@
 # <div align="center"> Hello, Geeks !</div>
-## A Resourceful Team of Gamers 🎮 Programmers 💻 and Engineers 😅
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markandey007&label=Profile%20views&color=0e75b6&style=flat" alt="autom_tech" /> </p>
